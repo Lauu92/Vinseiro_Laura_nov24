@@ -2,4 +2,4 @@
 *.xsd
 
 #Ignorar carpeta top secret
-docs/
+/docs
